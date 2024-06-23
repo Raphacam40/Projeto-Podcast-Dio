@@ -1,7 +1,7 @@
 
 [introdução]
 
-Fala, galera! Tudo bem com vocês? Aqui é o Raphael, e você está ouvindo "A Força do CSS: um podcast de Jedi"! Hoje vamos mergulhar no universo do front-end, descobrir alguns segredos e deixar sua jornada como desenvolvedor ainda mais emocionante. Então, prepare-se, porque hoje a Força está com você!
+Fala, galera! Tudo bem com vocês? Aqui é o Raphael, e você está ouvindo "A Força do CSS: um podcast de Jedi. Dominando o estilo e a arte do Front-end com maestria" Hoje vamos mergulhar no universo do front-end, descobrir alguns segredos e deixar sua jornada como desenvolvedor ainda mais emocionante. Então, prepare-se, porque hoje a Força está com você!
 
 [curiosidade 1]
 
