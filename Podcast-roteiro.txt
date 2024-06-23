@@ -1,0 +1,29 @@
+Você é um roteirista de podcast, e vamos criar um podcast de tecnologia, focado em front-end e eu gostaria de uma ajuda sua para criar 5 sugestões  de nomes criativos para um podcast front-end feito por nerds, e que tenha um trocadilho nerd no nome.
+ O podcast vai falar sobre dicas e novidades sobe o mundo do front-end e o que está acontecendo no mercado
+{REGRAS}
+- O nome deve ser enxuto, um nome  e um subtítulo 
+- O nome tenha algum trocadilho nerd, como nomes de franquias conhecidas como Harry Poter, Star Wars, Senhor dos Anéis
+- Que o nome deve conter alguma palavra forte que remeta a front-end 
+{REGRAS NEGATIVAS}
+- Não quero que o nome contenha palavras em inglês
+- Não quero que utilize nenhuma das palavras nessa lista: JavaScript, Programador.
+
+
+Você é um roteirista de podcast e vamos criar um roteiro de um podcast de tecnologia, focado em front-end especificamente em CSS, cujo nome é "A Força do CSS: um podcast de jedi" e tem foco em front-end com público alvo de iniciantes em front-end.
+O formato do roteiro deve ser:
+[introdução]
+[curiosidade 1]
+[curiosidade 2]
+[finalização]
+{REGRAS}
+- No bloco [introdução] substitua por uma introdução iguais as introduções dos vídeos do canal 'ei nerd', como se fossem escritos pelo Peter Jordan
+- No bloco [curiosidade 1] substitua por uma curiosidade em HTML
+- No bloco [curiosidade 2] sobre uma ferramenta para CSS
+- No bloco [finalização] substitua por uma despedida coll com o final "Eu sou Raphael  e esse foi o 'A força do CSS' dessa semana"
+- Use termos de fácil explicação
+- O podcast vai ser apresentado somente por uma pessoa, chamada Raphael
+- O podcast deve ser curto
+{REGRAS NEGATIVAS}
+- Não use termos técnicos
+- Não ultrapasse 5 minutos  
+ 

@@ -1,0 +1,22 @@
+
+[introdução]
+
+Fala, galera! Tudo bem com vocês? Aqui é o Raphael, e você está ouvindo "A Força do CSS: um podcast de Jedi"! Hoje vamos mergulhar no universo do front-end, descobrir alguns segredos e deixar sua jornada como desenvolvedor ainda mais emocionante. Então, prepare-se, porque hoje a Força está com você!
+
+[curiosidade 1]
+
+Vamos começar com uma curiosidade sobre CSS que pode facilitar bastante a sua vida. Você sabia que com o CSS você pode mudar completamente a aparência de um site sem alterar uma única linha de HTML? Por exemplo, com a propriedade background-image, você pode colocar uma imagem de fundo em qualquer elemento. É só escrever background-image: url('caminho/para/sua/imagem.jpg'); e pronto, seu site já ganha uma cara nova! Legal, né?
+
+[curiosidade 2]
+
+Agora, vou falar sobre três ferramentas incríveis que vão te ajudar a dominar o CSS de uma vez por todas.
+
+Primeira ferramenta: Flexbox Froggy. É um jogo online super divertido que ensina Flexbox de maneira prática. Você ajuda os sapinhos a chegarem aos seus lilypads usando propriedades do Flexbox.
+
+Segunda ferramenta: CSS Grid Garden. Semelhante ao Flexbox Froggy, mas focado em CSS Grid. Você aprende a posicionar cenouras em um jardim usando as propriedades do Grid.
+
+Terceira ferramenta: Can I Use. Essa é um pouco diferente, mas super útil. No site Can I Use, você pode verificar se uma propriedade CSS específica é suportada nos diferentes navegadores. Assim, você não corre o risco de usar algo que não funcione para todos os usuários.
+
+[finalização]
+
+E por hoje é isso, pessoal! Espero que tenham gostado dessas dicas e que elas ajudem vocês a se tornarem verdadeiros mestres no front-end. Não se esqueçam de seguir o podcast e compartilhar com os amigos que também estão nessa jornada. Eu sou Raphael e esse foi o "A Força do CSS" dessa semana. Até a próxima, e que a força do CSS esteja com vocês!
