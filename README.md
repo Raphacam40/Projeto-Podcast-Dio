@@ -20,6 +20,13 @@ Nosso formato é simples e direto, perfeito para quem tem uma agenda corrida mas
 ## 🎧 Episódios
 
 Cada episódio é curto e focado, durando menos de 5 minutos. Perfeito para ouvir no caminho para o trabalho, na academia ou enquanto você toma um café. ☕
+## 📲 Como Ouvir
+
+Escute agora o nosso primeiro episódio:
+
+https://github.com/Raphacam40/Projeto-Podcast-Dio/assets/160501285/c29d5a76-cd17-40f8-88c7-8bae3d11f04f
+
+
 
 
 
