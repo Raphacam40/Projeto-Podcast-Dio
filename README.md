@@ -1,6 +1,7 @@
 # 🌟 A Força do CSS: um podcast de Jedi 🌟
 
 Bem-vindos ao repositório do **"A Força do CSS: um podcast de Jedi"**! 🌟
+Dominando o estilo e a arte do Front-end com maestria
 
 
 ## Sobre o Podcast
