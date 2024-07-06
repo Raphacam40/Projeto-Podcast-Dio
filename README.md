@@ -16,6 +16,9 @@ Nosso formato é simples e direto, perfeito para quem tem uma agenda corrida mas
 2. **Curiosidade 1**: Compartilhamos uma curiosidade bacana sobre CSS, mostrando como ele pode transformar a aparência do seu site. ✨
 3. **Curiosidade 2**: Apresentamos três ferramentas incríveis que vão facilitar seu trabalho com CSS e tornar o aprendizado mais interativo. 🔧
 4. **Finalização**: Encerramos com uma despedida coll, deixando você com aquele gostinho de quero mais! 🎉
+## Apresentação
+
+https://github.com/Raphacam40/Projeto-Podcast-Dio/assets/160501285/2109a0ae-ef8b-41de-a493-8576c35a4f8b
 
 ## 🎧 Episódios
 
